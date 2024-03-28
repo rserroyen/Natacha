@@ -10,7 +10,7 @@ Compteur numérique belge via le port P1 avec Home Assistant et ESPHome
 ![Cover](https://github.com/rserroyen/Natacha/blob/main/img/Physical_port.png).
 
 # D1 MINI MINI PRO ESP8266
-Connect the esp8266 to an RJ11 cable/connector following the diagram.
+Connect the esp8266 to an RJ11 cable/connector following the diagram./n
 P1 pin	ESP8266 Pin
 1 - +5v
 2 - RTS	to 10k to 3.3v
