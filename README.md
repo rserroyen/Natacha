@@ -2,7 +2,7 @@
 Compteur numérique belge via le port P1 avec Home Assistant et ESPHome
 
 ## ORES S211 M22/0071 Siconia
-AAA ![aaa](https://github.com/rserroyen/Natacha/blob/main/img/Ores_1.png)
+![Cover](https://github.com/rserroyen/Natacha/blob/main/img/Ores_1.png)
 ![Cover](https://github.com/rserroyen/Natacha/blob/main/img/Ores_2_pin.png).
 
 ## Physical port
@@ -28,7 +28,7 @@ P1 pin	ESP8266 Pin
 
 ![Cover](https://github.com/rserroyen/Natacha/blob/main/img/Schematic_Natacha-P1-Home-Assistant_2024-03-28.pdf).
 
-# Home Assistant et ESPHome natacha.yaml
+## Home Assistant et ESPHome natacha.yaml
 DSMR 4.0/4.2
 
 115200 8N1:
@@ -43,7 +43,8 @@ Stop bits = 1
 
 serial RS422
 
-  uart:
+```
+ uart:
   
   id: uart_bus
 
@@ -62,7 +63,7 @@ serial RS422
   #stop_bits: 1
   
   rx_buffer_size: 1700
-
+```
   inversé (Facultatif, booléen) : Si toutes les valeurs lues et écrites doivent être traitées comme inversées. La valeur par défaut est false.
 
 # Link
