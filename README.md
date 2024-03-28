@@ -67,13 +67,13 @@ serial RS422
   inversé (Facultatif, booléen) : Si toutes les valeurs lues et écrites doivent être traitées comme inversées. La valeur par défaut est false.
 
 ## Link
-###Home-Assistant
+##Home-Assistant
 
 https://github.com/DavyLandman/p1-esp8266
 
 https://www.home-assistant.io/integrations/dsmr
 
-###Esphome
+##Esphome
 
 https://github.com/mmakaay/dsmr-reader-for-esphome
 
@@ -97,7 +97,7 @@ https://forum.hacf.fr/t/compteurs-electrique-belge-port-p1-sur-home-assistant/23
 
 https://www.domohab.be/compteur-belge-recuperer-les-donnees-avec-home-assistant-et-esphome/
 
-###Domoticz
+##Domoticz
 
 https://domoticx.com/p1-poort-slimme-meter-hardware/
 
@@ -105,10 +105,10 @@ https://github.com/Raeymeister/BelgianSmartMeter2Domoticz?tab=readme-ov-file
 
 https://www.youtube.com/watch?v=XpUMwQLgd2I
 
-###esp32
+##esp32
 https://domoticx.com/p1-poort-slimme-meter-hardware/
 
-###Esp8266
+##Esp8266
 
 https://github.com/daniel-jong/esp8266_p1meter
 
@@ -126,7 +126,7 @@ https://github.com/daniel-jong/esp8266_p1meter/tree/master
 
 https://github.com/sandervandegeijn/P1-Meter-ESP8266-MQTT
 
-###Python
+##Python
 
 https://github.com/jensdepuydt/belgian_digitalmeter_p1
 
@@ -138,11 +138,11 @@ https://github.com/Eraser3/HomeWizard-Wifi-p1-plugin
 
 https://github.com/rroethof/p1reader
 
-### PI
+## PI
 
 https://gejanssen.com/howto/Slimme-meter-uitlezen/
 
-###Doc
+##Doc
 
 https://www.fluvius.be/sites/fluvius/files/2020-01/dmk-demo-v2.1-rtc.pdf
 
