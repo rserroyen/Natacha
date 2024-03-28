@@ -43,6 +43,27 @@ Stop bits = 1
 
 serial RS422
 
+  uart:
+  
+  id: uart_bus
+
+  rx_pin: 
+  
+    number: RX
+    
+    inverted: true
+    
+  baud_rate: 115200
+  
+  #data_bits: 7
+  
+  #parity: EVEN
+  
+  #stop_bits: 1
+  
+  rx_buffer_size: 1700
+
+  inversé (Facultatif, booléen) : Si toutes les valeurs lues et écrites doivent être traitées comme inversées. La valeur par défaut est false.
 
 # Link
 Home-Assistant
