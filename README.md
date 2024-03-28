@@ -138,7 +138,7 @@ https://github.com/Eraser3/HomeWizard-Wifi-p1-plugin
 
 https://github.com/rroethof/p1reader
 
-## PI
+##PI
 
 https://gejanssen.com/howto/Slimme-meter-uitlezen/
 
