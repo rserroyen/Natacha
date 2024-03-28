@@ -27,3 +27,4 @@ P1 pin	ESP8266 Pin
 6 - GND
 
 ![Cover](https://github.com/rserroyen/Natacha/blob/main/img/Schematic_Natacha-P1-Home-Assistant_2024-03-28.pdf).
+
