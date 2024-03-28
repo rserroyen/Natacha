@@ -66,9 +66,10 @@ serial RS422
 ```
   inversé (Facultatif, booléen) : Si toutes les valeurs lues et écrites doivent être traitées comme inversées. La valeur par défaut est false.
 
-# Link
+## Link
 Home-Assistant
-https://github.com/DavyLandman/p1-esp8266
+
+[GitHub Pages](https://github.com/DavyLandman/p1-esp8266)
 https://www.home-assistant.io/integrations/dsmr
 Esphome
 https://github.com/mmakaay/dsmr-reader-for-esphome
