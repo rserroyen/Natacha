@@ -6,4 +6,6 @@ Compteur numérique belge via le port P1 avec Home Assistant et ESPHome
 
 ![Cover](https://github.com/rserroyen/Natacha/blob/main/img/Ores_2_pin.png).
 
+# Physical port
+![Cover](https://github.com/rserroyen/Natacha/blob/main/img/Physical_port_pinout.png).
 
