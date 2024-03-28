@@ -1,15 +1,15 @@
 # Natacha
 Compteur numérique belge via le port P1 avec Home Assistant et ESPHome
 
-# ORES S211 M22/0071 Siconia
-![Cover](https://github.com/rserroyen/Natacha/blob/main/img/Ores_1.png)
+## ORES S211 M22/0071 Siconia
+[Cover](https://github.com/rserroyen/Natacha/blob/main/img/Ores_1.png)
 ![Cover](https://github.com/rserroyen/Natacha/blob/main/img/Ores_2_pin.png).
 
-# Physical port
+## Physical port
 ![Cover](https://github.com/rserroyen/Natacha/blob/main/img/Physical_port_pinout.png).
 ![Cover](https://github.com/rserroyen/Natacha/blob/main/img/Physical_port.png).
 
-# D1 MINI MINI PRO ESP8266
+## D1 MINI MINI PRO ESP8266
 Connect the esp8266 to an RJ11 cable/connector following the diagram.
 
 P1 pin	ESP8266 Pin
