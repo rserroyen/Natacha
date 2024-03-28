@@ -67,49 +67,87 @@ serial RS422
   inversé (Facultatif, booléen) : Si toutes les valeurs lues et écrites doivent être traitées comme inversées. La valeur par défaut est false.
 
 ## Link
-Home-Assistant
+###Home-Assistant
 
-[GitHub Pages](https://github.com/DavyLandman/p1-esp8266)
+https://github.com/DavyLandman/p1-esp8266
+
 https://www.home-assistant.io/integrations/dsmr
-Esphome
+
+###Esphome
+
 https://github.com/mmakaay/dsmr-reader-for-esphome
+
 https://github.com/daniel-jong/esp8266_p1meter
+
 https://esphome.io/components/sensor/dsmr.html?highlight=p1+port
+
 https://github.com/mmakaay/dsmr-reader-for-esphome?tab=readme-ov-file
+
 https://github.com/scheric/DSMR-P1-ESP-Home-Assistant/tree/master1-ESP-Home-Assistant
+
 https://github.com/psvanstrom/esphome-p1reader
+
 https://esphome.io/components/sensor/dsmr.html?highlight=p1+port
+
 https://esphome.io/guides/configuration-types.html
+
 https://esphome.io/components/sensor/dsmr.html
+
 https://forum.hacf.fr/t/compteurs-electrique-belge-port-p1-sur-home-assistant/231
 
 https://www.domohab.be/compteur-belge-recuperer-les-donnees-avec-home-assistant-et-esphome/
-Domoticz
-https://domoticx.com/p1-poort-slimme-meter-hardware/#
-https://github.com/Raeymeister/BelgianSmartMeter2Domoticz?tab=readme-ov-file
-https://www.youtube.com/watch?v=XpUMwQLgd2I
-esp32
+
+###Domoticz
+
 https://domoticx.com/p1-poort-slimme-meter-hardware/
-Esp8266
+
+https://github.com/Raeymeister/BelgianSmartMeter2Domoticz?tab=readme-ov-file
+
+https://www.youtube.com/watch?v=XpUMwQLgd2I
+
+###esp32
+https://domoticx.com/p1-poort-slimme-meter-hardware/
+
+###Esp8266
+
 https://github.com/daniel-jong/esp8266_p1meter
+
 https://github.com/pkoerber/P1-Energy-Meter-Reader  P1-Energy-Meter-Reader 
+
 https://github.com/UdoK/esp8266_p1meter_sv esp8266_p1meter_sv
+
 https://www.weigu.lu/microcontroller/smartyReader_P1/index.html
+
 https://github.com/jantenhove/P1-Meter-ESP8266
+
 https://github.com/DavyLandman/p1-esp8266
+
 https://github.com/daniel-jong/esp8266_p1meter/tree/master
+
 https://github.com/sandervandegeijn/P1-Meter-ESP8266-MQTT
-python
+
+###Python
+
 https://github.com/jensdepuydt/belgian_digitalmeter_p1
+
 https://github.com/Josverl/micropython-p1meter
+
 https://github.com/nrocco/smeterd
+
 https://github.com/Eraser3/HomeWizard-Wifi-p1-plugin
+
 https://github.com/rroethof/p1reader
-PI
+
+### PI
+
 https://gejanssen.com/howto/Slimme-meter-uitlezen/
-Doc
+
+###Doc
+
 https://www.fluvius.be/sites/fluvius/files/2020-01/dmk-demo-v2.1-rtc.pdf
+
 http://www.esp8266thingies.nl/wp/
+
 https://blog.regout.info/category/slimmeter/
 
 
